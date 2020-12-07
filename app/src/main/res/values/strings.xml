@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">War crimes</string>
+    <string name="details">details</string>
+    <string name="crimes_name">crimes_name</string>
+    <string name="list">list</string>
+    <string name="grid">Grid</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="detail">detail</string>
+    <string name="todo">TODO</string>
+    <string name="Profile">Profile</string>
+    <string name="Crimes">War crimes</string>
+    <string name="name">M Faisal Shafwan Damanik</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp" >
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_profile_photo"
+        android:layout_width="189dp"
+        android:layout_height="198dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="160dp"
+        tools:src="@android:color/darker_gray" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="M Faisal Shafwan D"
+        android:textStyle="bold"
+        android:textSize="23dp"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="safwan.damanik@gmail.com"
+        android:textStyle="bold"
+        android:textSize="23dp"/>
+
+</LinearLayout>
